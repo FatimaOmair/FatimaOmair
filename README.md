@@ -1,6 +1,8 @@
 <div align="center">
-  <img src="https://embedpress.com/wp-content/uploads/2022/06/How-To-Embed-Interactive-Gif-On-WordPress-Site-Without-Coding-1.gif" alt="MasterHead">
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="MasterHead" width="800">
 </div>
+
+
 
 <h1 align="center" style="font-family: Arial, sans-serif;">Hi 👋, I'm Fatima Omair</h1>
 <p></br></p>
