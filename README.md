@@ -1,12 +1,15 @@
+
+
+
 <div align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="MasterHead" width="800" height="250">
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="MasterHead" width="900" height="250">
 </div>
 
 
 
-<h1 align="center" style="font-family: Arial, sans-serif;">Hi 👋, I'm Fatima Omair</h1>
+<h1 align="center" style="font-family: Arial, sans-serif;">Hi 👋, I'm Fatima Omair  </h1>
 <p></br></p>
-<h3 align="center" style="font-family: Arial, sans-serif;">A passionate web developer from Palestine</h3>
+<h3 align="center" style="font-family: Arial, sans-serif;">A passionate web developer from Palestine <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Animated-Flag-Palestine.gif" alt="Palestine" width="90" height="30" ></h3>
 <p></br></p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"/>
 
