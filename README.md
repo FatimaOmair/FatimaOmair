@@ -17,9 +17,9 @@
 
 
 <p></br></p>
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **React, JS,**
+- 💬 Ask me about **React, Nodejs, JS, Python**
 
 
 <p align="left">
