@@ -30,7 +30,9 @@
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="fatimaomair" height="30" width="40" /></a>
 </p>
 <p></br></p>
-<h3 align="center">Languages and Tools:</h3>
+<p></br></p>
+<p></br></p>
+<h3 align="center" style="font-family: Arial, sans-serif; margin-bottom: 10px;">Languages and Tools:</h3>
 <p></br></p>
 <p align="center"> 
  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 10px; padding: 5px; border-radius: 50%; border: 2px solid #000;">
