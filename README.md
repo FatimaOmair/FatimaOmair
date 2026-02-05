@@ -3,7 +3,7 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" width="100%" />
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="MasterHead" width="900" height="250" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Fatima Omair</h1>
