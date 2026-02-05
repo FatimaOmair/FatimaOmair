@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" width="900" height="250"/>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height="350"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fatima Omair</h1>
