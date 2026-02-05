@@ -1,37 +1,45 @@
-
-
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" alt="MasterHead" width="900" height="250" />
+  <img src="https://i.pinimg.com/originals/cd/19/aa/cd19aa1e727d79be52ac4ce88a649951.gif" width="900" height="250"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fatima Omair</h1>
-<h3 align="center">Full Stack Developer | AWS Learner | From Palestine 🇵🇸</h3>
+<h3 align="center">Full Stack Developer | AI Enthusiast | From Palestine 🇵🇸</h3>
 
 ---
 
 ## 👩‍💻 About Me
 - 💻 Full Stack Developer (MERN Stack)
-- 🌱 Currently learning **AWS & Cloud Technologies**
-- 📊 Interested in **Data Science & Analytics**
-- 💬 Ask me about **React, Node.js, JavaScript, Python**
-- 🎯 Passionate about building impactful real-world systems
+- 🤖 Passionate about **Artificial Intelligence**
+- 📊 Interested in **Data Science & Machine Learning**
+- 💬 Ask me about **React, Node.js, JavaScript, Python, AI**
+- 🎯 Building impactful real-world intelligent systems
 
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-<a href="YOUR_LINKEDIN_LINK"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/></a>
-<a href="YOUR_FACEBOOK_LINK"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40"/></a>
-<a href="YOUR_INSTAGRAM_LINK"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="40"/></a>
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
+</a>
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+
+<a href="YOUR_FACEBOOK_LINK">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40"/>
+</a>
+
 </p>
+>
+
 
 ---
 
 ## 🚀 Languages and Tools
 <p align="center">
-
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
@@ -42,32 +50,25 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatimaomair&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaomair&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=fatimaomair&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fatimaomair&layout=compact&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=fatimaomair&theme=tokyonight" />
+</p>
+
 
 ---
 
 ## ✨ Quote
-> “Code is not just syntax… it’s impact.”
-
-
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatimaomair&show_icons=true&locale=en&layout=compact" alt="fatimaomair" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimaomair&show_icons=true&locale=en" alt="fatimaomair" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatimaomair&" alt="fatimaomair" /></p>
-<p></br></p>
-
+> “Code is not just syntax… it’s intelligence and impact.”
