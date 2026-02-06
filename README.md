@@ -1,6 +1,15 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://miro.medium.com/0*yBvA5CnEX3Sd4aod.gif" width="800" height="380"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6CCFF&height=100&section=header&animation=twinkling"/>
+</p>
+
+
+<p align="center">
+  <br>
+  𖦹 ⋆｡°✩ ⋆｡𖦹 °✩ ⋆｡°✩ ⋆｡𖦹
+  ⋆｡𖦹 °✩ ⋆｡°✩ ⋆｡𖦹 °✩ ⋆｡°✩ ⋆｡𖦹 °✩
+  °✩ ⋆｡°✩ ⋆｡𖦹 °✩ ⋆｡°✩<br>
+  <br>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fatima Omair</h1>
@@ -19,22 +28,16 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="40"/>
 </a>
-
 <a href="YOUR_LINKEDIN_LINK">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="40"/>
 </a>
-
 <a href="YOUR_FACEBOOK_LINK">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="40"/>
 </a>
-
 </p>
->
-
 
 ---
 
@@ -67,8 +70,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=fatimaomair&theme=tokyonight" />
 </p>
 
-
 ---
 
 ## ✨ Quote
-> “Code is not just syntax… it’s intelligence and impact.”
+> "Code is not just syntax… it's intelligence and impact."
