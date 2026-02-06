@@ -8,8 +8,8 @@
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Fatima Omair</h1>
-<h3 align="center">Full Stack Developer | AI Enthusiast | From Palestine 🇵🇸</h3>
+<h1 align="center">𝐇𝐢 💫, 𝐈'𝐦 𝐅𝐚𝐭𝐢𝐦𝐚 𝐎𝐦𝐚𝐢𝐫</h1>
+<h3 align="center">𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐀𝐈 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 | 𝐅𝐫𝐨𝐦 𝐏𝐚𝐥𝐞𝐬𝐭𝐢𝐧𝐞 🇵🇸</h3>
 
 ---
 
