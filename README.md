@@ -3,13 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=E6CCFF&height=100&section=header&animation=twinkling"/>
 </p>
 
-
-<p align="center">
-  <br>
-  𖦹 ⋆｡°✩ ⋆｡𖦹 °✩ ⋆｡°✩ ⋆｡𖦹
-  ⋆｡𖦹 °✩ <br>
-  <br>
+<p align="center"> 
+  <img src="https://genuityweb.com/assets/3d-illustration-cute-woman-carrying-laptop-with-transparent-background_791818-2776-removebg-preview.png" width="150"/> 
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Fatima Omair</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | From Palestine 🇵🇸</h3>
